@@ -1,3 +1,3 @@
 # test
 
-<img src="[image_filename.jpg](https://files.catbox.moe/no3str.gif)"
+<img src="[image_filename.gif](https://files.catbox.moe/no3str.gif)"
