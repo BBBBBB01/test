@@ -1,4 +1,4 @@
 # test
 
-![gurokawa stamp](image-url)
+![gurokawa stamp](IMG-7307.gif)
 
